@@ -1,2 +1,2 @@
 # retail-sales-analysis-module
-Data analysis eLearning module focused on retail sales trends and promotional impact.
+Interactive training module demonstrating data literacy and business decision-making using retail sales scenarios.
